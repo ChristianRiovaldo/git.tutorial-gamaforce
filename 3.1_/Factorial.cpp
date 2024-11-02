@@ -10,6 +10,7 @@ int factorial(int n) {
     }
 }
 //Ini comment
+//Ini comment branch dua
 int main() {
     int N;
     cout << "Masukkan bilangan bulat positif: "; cin >> N;
