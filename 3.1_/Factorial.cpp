@@ -9,7 +9,7 @@ int factorial(int n) {
         return n * factorial(n - 1);
     }
 }
-
+//Ini comment
 int main() {
     int N;
     cout << "Masukkan bilangan bulat positif: "; cin >> N;
